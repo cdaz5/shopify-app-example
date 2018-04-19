@@ -1,0 +1,20 @@
+{
+  "name": "shopify-test-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cookie": "^0.3.1",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "node-fetch": "^2.1.2",
+    "nonce": "^1.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
